@@ -21,9 +21,11 @@ window.onscroll = function myFunction() {
 
 // VIDEO LIST
 var arrVideo = [
-    'https://www.youtube.com/embed/Jdye2IFqs9I',
-    'https://www.youtube.com/embed/X7ksfiIdmWY',
-    'https://www.youtube.com/embed/X7ksfiIdmWY'
+    'https://www.youtube.com/embed/H5jeAqDjmkY',
+    'https://www.youtube.com/embed/WRWfsSMEJSs',
+    'https://www.youtube.com/embed/XTg9tS3_D20',
+    'https://www.youtube.com/embed/umDDXUtywuE',
+    'https://www.youtube.com/embed/_8QuUyZZGgk'
 ];
 
 var listVideo = document.querySelectorAll('.play');
