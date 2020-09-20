@@ -15,6 +15,9 @@ header .header nav ul li {
 html {
   scroll-behavior: smooth; }
 
+section#about, section#projects {
+  overflow: hidden; }
+
 header {
   position: absolute;
   background: #948e8ea8;
